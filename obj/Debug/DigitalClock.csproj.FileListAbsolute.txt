@@ -1,0 +1,14 @@
+D:\GitHub\DigitalClock\bin\Debug\DigitalClock.exe.config
+D:\GitHub\DigitalClock\bin\Debug\DigitalClock.exe
+D:\GitHub\DigitalClock\bin\Debug\DigitalClock.pdb
+D:\GitHub\DigitalClock\obj\Debug\MainWindow.g.cs
+D:\GitHub\DigitalClock\obj\Debug\App.g.cs
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock_MarkupCompile.cache
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock_MarkupCompile.lref
+D:\GitHub\DigitalClock\obj\Debug\MainWindow.baml
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock.g.resources
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock.exe
+D:\GitHub\DigitalClock\obj\Debug\DigitalClock.pdb

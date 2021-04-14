@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IftarClock", "IftarClock.csproj", "{C82B2BC2-F1B6-4139-B252-1C25D36192DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C82B2BC2-F1B6-4139-B252-1C25D36192DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82B2BC2-F1B6-4139-B252-1C25D36192DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82B2BC2-F1B6-4139-B252-1C25D36192DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82B2BC2-F1B6-4139-B252-1C25D36192DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5A9793-A58D-4DFA-8839-4538FC5E08BB}
+	EndGlobalSection
+EndGlobal

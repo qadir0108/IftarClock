@@ -14,7 +14,7 @@ namespace DigitalClock
     {
         DateTime sunset = DateTime.MinValue;// = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 18, 52, 0);
         Dictionary<string, string> sunsets = new Dictionary<string, string>();
-        readonly string dataFile = System.IO.Path.GetTempPath() + "DigitalClock.bin";
+        readonly string dataFile = System.IO.Path.GetTempPath() + "IftarClock.bin";
         public TimeSpan GetRemainingTime()
         {
             return sunset - DateTime.Now;
